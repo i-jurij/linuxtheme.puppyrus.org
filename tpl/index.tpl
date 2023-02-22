@@ -13,14 +13,14 @@
 	<!-- menu -->
 	<nav class="navv">
 		<h2>Галерея тем для дистрибутивов Linux.</h2>
-		<a href="http://linuxtheme.sytes.net">LinuxTheme</a> / 
-		<a href="/#open-modal">HowTo</a> / 
+		<a href="http://linuxtheme.sytes.net">LinuxTheme</a> /
+		<a href="/#open-modal">HowTo</a> /
 		<a href="/#open-modal1">Ссылки</a>
 	</nav>
-	<!-- end menu -->	
+	<!-- end menu -->
 
 	<div class="container">
-	
+
 		<?php include 'howto.tpl'; include 'links.tpl'; ?>
 
 		<?php if (empty($varcontent)) {?><?php } else echo $varcontent; ?>

@@ -7,7 +7,7 @@ if($_SESSION['admin']){
 }
 
 $admin = 'admin';
-$pass = 'e79d4100f9c7e7591b830800e27e7ab8'; 
+$pass = 'e79d4100f9c7e7591b830800e27e7ab8';
 
 if($_POST['submit']){
 	if($admin == $_POST['user'] AND $pass == md5($_POST['pass'])){
