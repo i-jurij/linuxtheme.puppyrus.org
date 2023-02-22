@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+mkdir -p prev
+for i in $( ls *.png);
+do convert $i -resize 320x200 prev/$i;
+done
+
+#for PHOTO in *.tiff
+#   do
+#       BASE=`basename $PHOTO`
+#	convert "$PHOTO" "$IMAGES/$BASE.jpg"
+#   done

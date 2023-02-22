@@ -1,0 +1,30 @@
+<div id="open-modal1" class="modal-window">
+  <div>
+    <a href="#modal-close" title="Close" class="modal-close">Close</a>
+    <h1>Ссылки</h1>
+    <div  style="margin:0 auto;">	
+<table id="customers" style="text-align:center;">
+  <tr>
+    <td><p style="font-size:1.2em;font-weight:700;">Ссылки на веб-ресурсы:</p>
+					<p><a target="_blank" href="gnome-look.org">gnome-look.org</a></p>						
+					<p><a href="www.opendesktop.org/s/Window-Managers">opendesktop.org Window-Managers</a></p>
+					<p><a href="https://github.com/B00merang-Project">B00merang-Project</a></p>
+					<p><a href="http://www.noobslab.com/">NoobsLab</a> </p>
+					<p><a href="https://www.xfce-look.org/content/show.php/Chicago+95?content=175835">Chicago95</a></p>
+					<p><a href="http://www.slitaz.org/">SliTaz Linux</a> </p>
+					<p><a href="https://www.microsoft.com/en-us/windows">Microsoft Windows</a> </p>					
+					<p><a href="https://www.apple.com/mac/">Apple Mac</a> </p></td>
+    <td><p style="font-size:1.2em;font-weight:700;">Другое:</p>
+					<p><a href="https://www.opendesktop.org/member/254966/">My art on gnome-look</a></p>
+					<p><a href="gnome-look.org">Simplex theme</a> </p>
+					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111230#msg111230">Classic95 theme</a></p>
+					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg112559#msg112559">Dark theme</a></p>
+					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg112066#msg112066">Simple theme</a> </p>
+					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111068#msg111068">Flat theme</a> </p>
+					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111956#msg111956">Old Ubuntu theme</a> </p></td>
+  </tr>
+</table>										
+					
+			</div>
+	 </div>
+</div>
