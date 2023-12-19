@@ -15,13 +15,7 @@
 					<p><a href="https://www.microsoft.com/en-us/windows">Microsoft Windows</a> </p>					
 					<p><a href="https://www.apple.com/mac/">Apple Mac</a> </p></td>
     <td><p style="font-size:1.2em;font-weight:700;">Другое:</p>
-					<p><a href="https://www.opendesktop.org/member/254966/">My art on gnome-look</a></p>
-					<p><a href="gnome-look.org">Simplex theme</a> </p>
-					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111230#msg111230">Classic95 theme</a></p>
-					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg112559#msg112559">Dark theme</a></p>
-					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg112066#msg112066">Simple theme</a> </p>
-					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111068#msg111068">Flat theme</a> </p>
-					<p><a href="http://forum.puppyrus.org/index.php?topic=15151.msg111956#msg111956">Old Ubuntu theme</a> </p></td>
+					<p><a href="https://www.opendesktop.org/member/254966/#user-aboutme">My art on gnome-look</a></p>
   </tr>
 </table>										
 					
